@@ -1,5 +1,5 @@
 //import Engineer class
-const Engineer = require('../lib/Engineer');
+const Engineer = require('../lib/Engineer.js');
 
 const engineer01 = new Engineer('Peter Bonnington', 'MERC02', 'p.bonnington@merc.com', 'p-bonnington');
 
